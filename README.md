@@ -1,1 +1,1 @@
-# Stucy
+# Study
